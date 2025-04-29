@@ -14,7 +14,7 @@ Bu proje, Türkiye'deki depremleri analiz etmek için kullanılan veri bilimi ve
 - **Pandas**: Veri manipülasyonu ve analizi.
 - **Matplotlib & Seaborn**: Statik grafikler ve görselleştirmeler.
 - **Plotly & Folium**: Etkileşimli haritalar ve grafikler.
-
+##
 ![Ekran görüntüsü 2025-04-29 163205](https://github.com/user-attachments/assets/91e658a3-84ae-4fe0-a409-92a82ad300ce)
 - **ML (Local Magnitude):** Yerel Büyüklük. "Richter ölçeği" olarak da bilinir. Genellikle yakınlarda ölçülen küçük-orta büyüklükteki depremler için kullanılır.
 - **MW (Moment Magnitude):** Moment Büyüklük. Büyük depremler için daha güvenilir ve günümüzde en yaygın kullanılan büyüklük ölçeğidir. Enerjiye ve faydaki kaymaya dayanır.
