@@ -3,11 +3,14 @@
 # Türkiye Deprem Analizi Projesi
 Bu proje, Türkiye'deki depremleri analiz etmek için kullanılan veri bilimi ve görselleştirme tekniklerini içermektedir. Amaç, deprem verilerini anlamak ve görselleştirmelerle kullanıcıya sunmaktır.
 
+
 ## Proje İçeriği:
 1. Deprem verilerinin toplandığı ve işlendiği Python kodları.
 2. Görselleştirmeler: Çubuk grafikler, haritalar ve diğer etkileşimli görselleştirmeler.
 3. İstatistiksel analizler.
 4. Makine Öğrenmesi Modeli ile Deprem Türü Tahmini.
+
+  **Notebook ve Verisetine bakmak için:** https://www.kaggle.com/code/yarenzoul/t-rkiye-deprem-analizi
 
 ## Kullanılan Teknolojiler:
 - **Python**: Veri işleme ve analiz için.
